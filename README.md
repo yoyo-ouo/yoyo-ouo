@@ -5,10 +5,6 @@
 
 无
 
-## 遗弃的项目（低关注度）
-
-- [An-efficient-blog 一个完全不依赖数据库的博客](https://github.com/yoyo-ouo/An-efficient-blog)很少关注这个项目了...
-
 ## 关于我 🤗
 我叫 幽悠ouo_ ，是中学（初中）生，喜欢研究一些科技类的东西，比如说LLM之类的东西。🤖
 
